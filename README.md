@@ -58,10 +58,17 @@ STEP 5 : Model Evaluation
 # What You’ll Learn
 By going through this project, you will learn:
 ✅ How to load and explore real-world datasets in Pandas
+
 ✅ How to clean, preprocess, and prepare data for machine learning
+
 ✅ How to perform exploratory data analysis (EDA) with Matplotlib & Seaborn
+
 ✅ How to convert a regression dataset into a binary classification problem
+
 ✅ How to build and train a Logistic Regression model using Scikit-learn
+
 ✅ How to evaluate models using accuracy, confusion matrix, and classification report
+
 ✅ How to structure a project for Google Colab & GitHub
+
 ✅ How to write a clean and professional README for ML projects
